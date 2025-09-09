@@ -3,7 +3,7 @@ WORK IN PROGRESS
 # lext-lubuntu-artwork-latest - Lubuntu-Arc theming for LXQt
 This repository is intended for use by AUR. See package 'lubuntu-artwork'. Mentioned package has a problem (or, it is not maintained) and can't be used anymore without tweaking.
 
-Lubuntu artwork is available at http://archive.ubuntu.com/ubuntu/pool/universe/l/lubuntu/lubuntu-artwork, however there is no such thing as a 'latest' release alias. 
+Lubuntu artwork is available at http://archive.ubuntu.com/ubuntu/pool/universe/l/lubuntu-artwork, however there is no such thing as a 'latest' release alias. 
 
 The 'lubuntu-artwork' packages uses a specific package identifier. Each update of the Lubuntu-Arc comes with its own unique package identifier (e.g. 24.04.3). This is currently (at time of writing) the package version that is expected to be available from 'upstream'. 
 
